@@ -1,8 +1,8 @@
 [mongodb]
-mongodb.tmcdevops.online
+mongodb.joindevops.online
 
-[catalog]
-catalogue.tmcdevops.online
+[catalogue]
+catalogue.joindevops.online
 
 [web]
-web.tmcdevops.online
+web.joindevops.online
