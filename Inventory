@@ -1,0 +1,8 @@
+[mongodb]
+mongodb.tmcdevops.online
+
+[catalog]
+catalogue.tmcdevops.online
+
+[web]
+web.tmcdevops.online
