@@ -22,5 +22,8 @@ mysql.tmcdevops.online
 [shipping]
 shipping.tmcdevops.online
 
+[rabbitmq]
+rabbitmq.tmcdevops.online
+
 [payment]
 payment.tmcdevops.online
